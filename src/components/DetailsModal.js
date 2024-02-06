@@ -52,29 +52,31 @@ const DetailsModal = ({ onClose, storeValue }) => {
                     <br />
                     <br />
                     {filteredData.length > 0 ? (
-                        <table className="m-2 w-full border-solid border-2 border-sky-600 rounded-md text-center text-gray-500 m" style={{ tableLayout: "fixed" }}>
+                        <div className='m-6 overflow-hidden shadow-md sm:rounded-lg'>
+                        <table className="w-full text-sm text-left rtl:text-right text-white " style={{ borderRadius: '0.5rem',tableLayout:'fixed' }}>
                             <colgroup>
                                 {tableDetailsRow.map((_, index) => (
                                     <col key={index} style={{ width: `${100 / tableDetailsRow.length}%` }} />
                                 ))}
                             </colgroup>
-                            <thead className="m-4 text-xs text-white uppercase bg-sky-400">
+                            <thead className="text-xs text-white-700 uppercase bg-sky-600 ">
                                 <tr>
                                     {tableDetailsRow.map((header, index) => (
-                                        <th key={index} style={{ whiteSpace: shouldMultiLineHeader(header) ? "normal" : "nowrap", padding: "8px" }}>{header}</th>
+                                        <th key={index} scope="col" className='px-6 py-3' style={{ whiteSpace: shouldMultiLineHeader(header) ? "normal" : "nowrap", padding: "8px" }}>{header}</th>
                                     ))}
                                 </tr>
                             </thead>
                             <tbody className="text-xs">
                                 {filteredData.map((rowData, rowIndex) => (
-                                    <tr key={rowIndex}>
+                                    <tr key={rowIndex} className='text-black bg-white border-b hover:bg-gray-50 '>
                                         {rowData.map((value, columnIndex) => (
-                                            <td key={columnIndex} style={{ whiteSpace: "pre-wrap", padding: "8px" }}>{value}</td>
+                                            <td key={columnIndex} className='px-6 py-4' style={{ whiteSpace: "pre-wrap", padding: "8px" }}>{value}</td>
                                         ))}
                                     </tr>
                                 ))}
                             </tbody>
                         </table>
+                        </div>
                     ) : (
                         <p>No data to display</p>
                     )}
