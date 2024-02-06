@@ -1,0 +1,31 @@
+storetype,store,store_block_status_wrf1,article_category,articles_valid_for_ordering,article_ordered,diff
+franchise,8001,live,Frozen,75,80,5
+retail,8025,not live,Ambient Local,60,55,-5
+franchise,8102,live,Frozen National,90,95,5
+retail,8150,not live,Ambient Local,40,30,-10
+franchise,8256,live,Frozen,80,85,5
+retail,8324,not live,Frozen National,70,60,-10
+franchise,8401,live,Ambient Local,50,55,5
+retail,8479,not live,Frozen,65,60,-5
+franchise,8556,live,Frozen National,85,90,5
+retail,8632,not live,Ambient Local,30,25,-5
+franchise,8701,live,Frozen,70,75,5
+retail,8750,not live,Frozen National,55,45,-10
+franchise,8802,live,Ambient Local,45,50,5
+retail,8899,not live,Frozen,60,55,-5
+franchise,8956,live,Frozen National,80,85,5
+retail,9023,not live,Ambient Local,35,25,-10
+franchise,9101,live,Frozen,65,70,5
+retail,9150,not live,Frozen National,50,40,-10
+franchise,9202,live,Ambient Local,40,45,5
+retail,9278,not live,Frozen,55,50,-5
+franchise,9356,live,Frozen National,75,80,5
+retail,9423,not live,Ambient Local,25,15,-10
+franchise,9501,live,Frozen,60,65,5
+retail,9550,not live,Frozen National,45,35,-10
+franchise,9602,live,Ambient Local,35,40,5
+retail,9679,not live,Frozen,50,45,-5
+franchise,9756,live,Frozen National,70,75,5
+retail,9823,not live,Ambient Local,30,20,-10
+franchise,9901,live,Frozen,55,60,5
+retail,9950,not live,Frozen National,40,30,-10

@@ -1,0 +1,49 @@
+store_type,store,store_block_status_wrf1,article_category,article,article_block_status_marc,rp_type,article_block_status_mara,stock_available,remarks
+TCG,8025,not live,Frozen,70001234,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8025,not live,Ambient Local,70002345,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8025,not live,Frozen National,70003456,not live,FNR Relevant,not live,no,May not generate order
+TCG,8025,not live,Frozen,70004567,not live,FNR Relevant,not live,no,May not generate order
+TCG,8025,not live,Ambient Local,70005678,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8025,not live,Frozen National,70006789,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8025,not live,Frozen,70007890,not live,FNR Relevant,not live,no,May not generate order
+TCG,8025,not live,Ambient Local,70008901,not live,FNR Relevant,not live,no,May not generate order
+TCG,8150,not live,Frozen National,70019012,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8150,not live,Frozen,70020123,not live,FNR Relevant,not live,no,May not generate order
+TCG,8150,not live,Ambient Local,70021234,not live,FNR Relevant,not live,no,May not generate order
+TCG,8150,not live,Frozen National,70022345,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8150,not live,Frozen,70023456,not live,FNR Relevant,not live,no,May not generate order
+TCG,8150,not live,Ambient Local,70024567,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8150,not live,Frozen National,70025678,not live,FNR Relevant,not live,no,May not generate order
+TCG,8150,not live,Frozen,70026789,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8324,not live,Ambient Local,70036890,not live,FNR Relevant,not live,no,May not generate order
+TCG,8324,not live,Frozen National,70037901,not live,FNR Relevant,not live,no,May not generate order
+TCG,8324,not live,Frozen,70039012,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8324,not live,Ambient Local,70040123,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8324,not live,Frozen National,70041234,not live,FNR Relevant,not live,no,May not generate order
+TCG,8324,not live,Frozen,70052345,not live,FNR Relevant,not live,yes,May not generate order
+TCG,8324,not live,Ambient Local,70053456,not live,FNR Relevant,not live,no,May not generate order
+TCG,8324,not live,Frozen National,70054567,not live,FNR Relevant,not live,no,May not generate order
+TCG,8025,live,Frozen,70065678,live,FNR Relevant,live,yes,May generate order
+TCG,8025,live,Ambient Local,70076789,live,FNR Relevant,live,yes,May generate order
+TCG,8025,live,Frozen National,70087890,live,FNR Relevant,live,no,May generate order
+TCG,8025,live,Frozen,70098901,live,FNR Relevant,live,no,May generate order
+TCG,8025,live,Ambient Local,70109012,live,FNR Relevant,live,yes,May generate order
+TCG,8025,live,Frozen National,70120123,live,FNR Relevant,live,yes,May generate order
+TCG,8025,live,Frozen,70131234,live,FNR Relevant,live,no,May generate order
+TCG,8025,live,Ambient Local,70142345,live,FNR Relevant,live,no,May generate order
+TCG,8256,live,Frozen,70153456,live,FNR Relevant,live,yes,May generate order
+TCG,8256,live,Ambient Local,70164567,live,FNR Relevant,live,no,May generate order
+TCG,8256,live,Frozen National,70175678,live,FNR Relevant,live,no,May generate order
+TCG,8256,live,Frozen,70186789,live,FNR Relevant,live,yes,May generate order
+TCG,8256,live,Ambient Local,70197890,live,FNR Relevant,live,no,May generate order
+TCG,8256,live,Frozen National,70208901,live,FNR Relevant,live,yes,May generate order
+TCG,8256,live,Frozen,70219012,live,FNR Relevant,live,no,May generate order
+TCG,8256,live,Ambient Local,70230123,live,FNR Relevant,live,yes,May generate order
+TCG,8324,live,Ambient Local,70241234,live,FNR Relevant,live,no,May generate order
+TCG,8324,live,Frozen National,70252345,live,FNR Relevant,live,no,May generate order
+TCG,8324,live,Frozen,70263456,live,FNR Relevant,live,yes,May generate order
+TCG,8324,live,Ambient Local,70274567,live,FNR Relevant,live,yes,May generate order
+TCG,8324,live,Frozen National,70285678,live,FNR Relevant,live,no,May generate order
+TCG,8324,live,Frozen,70296789,live,FNR Relevant,live,yes,May generate order
+TCG,8324,live,Ambient Local,70307890,live,FNR Relevant,live,no,May generate order
+TCG,8324,live,Frozen National,70318901,live,FNR Relevant,live,no,May generate order
