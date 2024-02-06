@@ -29,7 +29,7 @@ const DetailsModal = ({ onClose, storeValue }) => {
             console.log('error while parsing:', error, file);
         },
     };
-
+    // eslint-disable-next-line
     useEffect(() => {
         readString(siteDetailsList, papaconfig);
     }, []);
