@@ -1,4 +1,5 @@
 import React from 'react';
+import "./card.css"
 
 function Ambient() {
     return (
@@ -8,7 +9,7 @@ function Ambient() {
             <br />            
             <div className="flex flex-wrap mb-2">
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2">
-                    <div className="border border-gray-300 bg-gray-100 rounded shadow p-2">
+                    <div className="card border border-gray-300 bg-gray-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fa fa-wallet fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
@@ -30,7 +31,7 @@ function Ambient() {
                     </div>
                 </div>
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pl-2">
-                    <div className="border border-purple-300 bg-purple-100 rounded shadow p-2">
+                    <div className="card border border-purple-300 bg-purple-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-users fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
@@ -62,18 +63,13 @@ function Ambient() {
                     </div>
                 </div>
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2 xl:pr-3 xl:pl-1">
-                    <div className="border border-orange-300 bg-orange-100 rounded shadow p-2">
+                    <div className="card border border-orange-300 bg-orange-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-user-plus fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right pr-1">
                                 <h3>OBD dropped</h3>
                                 <table className="w-full">
-                                    <thead>
-                                        <tr>
-                                            <th></th>
-                                            <th>Value</th>
-                                        </tr>
-                                    </thead>
+                                    
                                     <tbody>
                                         <tr>
                                             <td>%STO:</td>
@@ -100,7 +96,7 @@ function Ambient() {
             <br />            
             <div className="flex flex-wrap mb-2">
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2">
-                    <div className="border border-gray-300 bg-gray-100 rounded shadow p-2">
+                    <div className="card border border-gray-300 bg-gray-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fa fa-wallet fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
@@ -122,18 +118,13 @@ function Ambient() {
                     </div>
                 </div>
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pl-2">
-                    <div className="border border-purple-300 bg-purple-100 rounded shadow p-2">
+                    <div className="card border border-purple-300 bg-purple-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-users fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
                                 <h3>Forecast Vs Actual</h3>
                                 <table className="w-full">
-                                    <thead>
-                                        <tr>
-                                            <th></th>
-                                            
-                                        </tr>
-                                    </thead>
+                                    
                                     <tbody>
                                         <tr>
                                             <td>Equal:</td>
@@ -154,18 +145,13 @@ function Ambient() {
                     </div>
                 </div>
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2 xl:pr-3 xl:pl-1">
-                    <div className="border border-orange-300 bg-orange-100 rounded shadow p-2">
+                    <div className="card border border-orange-300 bg-orange-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-user-plus fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right pr-1">
                                 <h3>OBD dropped</h3>
                                 <table className="w-full">
-                                    <thead>
-                                        <tr>
-                                            <th></th>
-                                            <th>Value</th>
-                                        </tr>
-                                    </thead>
+                                    
                                     <tbody>
                                         <tr>
                                             <td>%STO:</td>
@@ -192,7 +178,7 @@ function Ambient() {
             <br />            
             <div className="flex flex-wrap mb-2">
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2">
-                    <div className="border border-gray-300 bg-gray-100 rounded shadow p-2">
+                    <div className="card border border-gray-300 bg-gray-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fa fa-wallet fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
@@ -215,18 +201,13 @@ function Ambient() {
                 </div>
                 
                 <div className="w-full md:w-1/2 xl:w-1/3 pt-3 px-3 md:pr-2 xl:pr-3 xl:pl-1">
-                    <div className="border border-orange-300 bg-orange-100 rounded shadow p-2">
+                    <div className="card border border-orange-300 bg-orange-100 rounded shadow p-2">
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-user-plus fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right pr-1">
                                 <h3>OBD dropped</h3>
                                 <table className="w-full">
-                                    <thead>
-                                        <tr>
-                                            <th></th>
-                                            <th>Value</th>
-                                        </tr>
-                                    </thead>
+                                    
                                     <tbody>
                                         <tr>
                                             <td>%STO:</td>
