@@ -12,7 +12,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fa fa-wallet fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
-                                <h5>Store Count</h5>
+                                <h3>Store Count</h3>
                                 <table className="w-full">
                                     <tbody>
                                         <tr>
@@ -34,7 +34,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-users fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
-                                <h5>Forecast Vs Actual</h5>
+                                <h3>Forecast Vs Actual</h3>
                                 <table className="w-full">
                                     <thead>
                                         <tr>
@@ -66,7 +66,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-user-plus fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right pr-1">
-                                <h5>OBD dropped</h5>
+                                <h3>OBD dropped</h3>
                                 <table className="w-full">
                                     <thead>
                                         <tr>
@@ -104,7 +104,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fa fa-wallet fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
-                                <h5>Store Count</h5>
+                                <h3>Store Count</h3>
                                 <table className="w-full">
                                     <tbody>
                                         <tr>
@@ -126,7 +126,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-users fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
-                                <h5>Forecast Vs Actual</h5>
+                                <h3>Forecast Vs Actual</h3>
                                 <table className="w-full">
                                     <thead>
                                         <tr>
@@ -158,7 +158,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-user-plus fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right pr-1">
-                                <h5>OBD dropped</h5>
+                                <h3>OBD dropped</h3>
                                 <table className="w-full">
                                     <thead>
                                         <tr>
@@ -196,7 +196,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fa fa-wallet fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right">
-                                <h5>Store Count</h5>
+                                <h3>Store Count</h3>
                                 <table className="w-full">
                                     <tbody>
                                         <tr>
@@ -219,7 +219,7 @@ function Ambient() {
                         <div className="flex flex-row items-center">
                             <div className="flex-shrink pl-1 pr-4"><i className="fas fa-user-plus fa-2x fa-fw fa-inverse"></i></div>
                             <div className="flex-1 text-right pr-1">
-                                <h5>OBD dropped</h5>
+                                <h3>OBD dropped</h3>
                                 <table className="w-full">
                                     <thead>
                                         <tr>
